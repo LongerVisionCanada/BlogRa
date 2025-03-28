@@ -5,13 +5,13 @@ summaryLength   = 25
 
 theme         = "BlogRa"
 languageCode  = "en-us"
-title         = "BlogRa"
+title         = "Longer Vision STEM"
 
 disqusShortname = ""
 
 [params]
-    description     = "The Ultimate Tech Blogging Theme"
-    contactEmail    = "your-email@domain.com"
+    description     = "Longer Vision Canada - STEM Education"
+    contactEmail    = "jiapei@longervision.com"
     footer          = ""
     googleSearch    = "google-cse-key"
     googleAnalytics = ""      # Google Analytics v4
@@ -20,11 +20,12 @@ disqusShortname = ""
     mermaid         = false   # best to enable this in the front matter of a page
 
     # Social Media Params
-    facebook   = "https://www.facebook.com/DevHacker-2351204168278028"
-    twitter    = ""
-    youtube    = "https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw"
+    yelp       = "https://www.yelp.com/biz/longer-vision-technology-surrey"
+    facebook   = "https://www.facebook.com/longervisionrobot"
+    twitter    = "https://twitter.com/LVRobot"
+    youtube    = "https://www.youtube.com/@longervisionrobot3325"
     instagram  = ""
-    github     = "https://github.com/rafed"
+    github     = "https://github.com/LongerVisionRobot"
     pinterest  = ""
     linkedin   = "https://www.linkedin.com/in/rafed-m-yasir/"
 
